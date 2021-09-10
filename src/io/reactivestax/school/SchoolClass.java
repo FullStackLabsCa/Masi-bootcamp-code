@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public abstract class SchoolClass {
+public abstract class SchoolClass implements School{
     int age;
     GradeType grade;
     double fee = 0;
