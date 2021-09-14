@@ -5,16 +5,18 @@ public class Student{
     String name;
     String age;
     GradeType grade;
+    SchoolType schoolType;
 
     //No parameter constructor
     public Student() {
     }
 
-    public Student(String name, String age, GradeType grade, String studentID) {
+    public Student(String name, String age, GradeType grade, String studentID, SchoolType schoolType) {
         this.name = name;
         this.age = age;
         this.grade = grade;
         this.studentID = studentID;
+        this.schoolType=schoolType;
     }
 
 
@@ -61,4 +63,3 @@ public class Student{
                 '}';
     }
 }
-

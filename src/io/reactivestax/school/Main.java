@@ -163,7 +163,7 @@ public class Main {
 
 
             //school admit student
-            Student student= new Student(studentName, studentAge, grade, String.valueOf(studentId));
+            Student student= new Student(studentName, studentAge, grade, String.valueOf(studentId),schoolType);
             School school= determineSchoolTypeBasedOnSchool(schoolType);
             try{
                 school.adminStudent(student);
