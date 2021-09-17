@@ -1,5 +1,6 @@
 package io.reactivestax.school;
 
+import io.reactivestax.school.entities.*;
 import io.reactivestax.school.exceptions.NoSchoolAvailableForThisAgeException;
 import io.reactivestax.school.exceptions.NoSchoolAvailableForThisGradeException;
 import io.reactivestax.school.types.GradeType;

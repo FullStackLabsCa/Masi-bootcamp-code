@@ -1,4 +1,4 @@
-package io.reactivestax.school;
+package io.reactivestax.school.entities;
 
 
 import java.text.DecimalFormat;
