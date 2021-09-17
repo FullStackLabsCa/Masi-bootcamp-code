@@ -1,10 +1,6 @@
 package io.reactivestax.school;
 
-import io.reactivestax.school.SchoolClass;
-import io.reactivestax.school.Student;
-
 import java.text.DecimalFormat;
-import java.util.Formatter;
 
 public class PreSchool extends SchoolClass {
 

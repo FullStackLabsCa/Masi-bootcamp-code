@@ -2,7 +2,7 @@ package io.reactivestax.school;
 
 import java.text.DecimalFormat;
 
-public class MiddleSchool extends SchoolClass{
+public class MiddleSchool extends SchoolClass {
 
 
     @Override

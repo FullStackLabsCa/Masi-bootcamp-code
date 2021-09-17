@@ -1,0 +1,24 @@
+
+U
+java:S2259g"?A "NullPointerException" could be thrown; "p" is nullable here.(ÇÎŠ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(¸ÃÃı
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(”€—Ø
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(Äß½¹
+h
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(•’ªüÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(•ØÑÜ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Å·À±ûÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(ÙÚ›·şÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(™ıüøÿÿÿÿ
+N	java:S106¡"9Replace this use of System.out or System.err by a logger.(õ¦åJ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(«½È
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(éÒäç
+N	java:S106µ"9Replace this use of System.out or System.err by a logger.(¡ËÌA
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(±øúœşÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(‹§›àıÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(‰‹íô
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÏÙ¬Ëúÿÿÿÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(Äß½¹
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(ÏÙ¬Ëúÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(„‹£ö

@@ -5,14 +5,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public abstract class SchoolClass implements School{
+public abstract class SchoolClass implements School {
     int age;
     GradeType grade;
     double fee = 0;
 
     Map<GradeType, List<Student>> gradeToStudentsMap= new HashMap<>();
 
-    public Student adminStudent(Student student) throws ClassFullException{
+    public Student adminStudent(Student student) throws ClassFullException {
         if(gradeToStudentsMap.get(student.getGrade())==null){
             List<Student> studentList = new ArrayList<>();
             studentList.add(student);

@@ -1,8 +1,6 @@
 package io.reactivestax.school;
 
 import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.List;
 
 public class ElementarySchool extends SchoolClass {
 
