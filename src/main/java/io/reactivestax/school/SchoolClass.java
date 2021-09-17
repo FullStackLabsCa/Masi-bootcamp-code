@@ -1,5 +1,7 @@
 package io.reactivestax.school;
 
+import io.reactivestax.school.types.GradeType;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

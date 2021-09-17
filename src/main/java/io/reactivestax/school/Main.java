@@ -1,5 +1,8 @@
 package io.reactivestax.school;
 
+import io.reactivestax.school.types.GradeType;
+import io.reactivestax.school.types.SchoolType;
+
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;

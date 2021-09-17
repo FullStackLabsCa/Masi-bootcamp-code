@@ -1,5 +1,8 @@
 package io.reactivestax.school;
 
+import io.reactivestax.school.types.GradeType;
+import io.reactivestax.school.types.SchoolType;
+
 public class Student{
     String studentID;
     String name;
