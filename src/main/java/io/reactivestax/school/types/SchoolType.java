@@ -1,4 +1,4 @@
-package io.reactivestax.school;
+package io.reactivestax.school.types;
 public enum SchoolType {
     PRE_SCHOOL("PreSchool"),
     ELEMENTARY_SCHOOL("ElementarySchool"),

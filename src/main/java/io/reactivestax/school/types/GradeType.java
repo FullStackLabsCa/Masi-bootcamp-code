@@ -1,4 +1,4 @@
-package io.reactivestax.school;
+package io.reactivestax.school.types;
 
 public enum GradeType {
 
@@ -77,7 +77,7 @@ public enum GradeType {
 
                 @Override
                 public String toString() {
-                    return "io.reactivestax.school.GradeType.Student{" +
+                    return "io.reactivestax.school.types.GradeType.Student{" +
                             "studentID='" + studentID + '\'' +
                             ", name='" + name + '\'' +
                             ", age=" + age +
