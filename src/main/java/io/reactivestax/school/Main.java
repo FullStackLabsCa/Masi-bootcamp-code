@@ -1,5 +1,7 @@
 package io.reactivestax.school;
 
+import io.reactivestax.school.exceptions.NoSchoolAvailableForThisAgeException;
+import io.reactivestax.school.exceptions.NoSchoolAvailableForThisGradeException;
 import io.reactivestax.school.types.GradeType;
 import io.reactivestax.school.types.SchoolType;
 
@@ -42,7 +44,7 @@ public class Main {
     }
 
 
-    public static GradeType determineGradeBasedOnAge(int age) throws NoSchoolAvailableForThisAgeException{
+    public static GradeType determineGradeBasedOnAge(int age) throws NoSchoolAvailableForThisAgeException {
         switch (age){
             case 4:
                 return GradeType.JK_GRADE;

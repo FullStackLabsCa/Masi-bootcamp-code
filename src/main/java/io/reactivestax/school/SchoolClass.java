@@ -1,5 +1,6 @@
 package io.reactivestax.school;
 
+import io.reactivestax.school.exceptions.ClassFullException;
 import io.reactivestax.school.types.GradeType;
 
 import java.util.ArrayList;
