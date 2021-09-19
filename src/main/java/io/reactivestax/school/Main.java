@@ -19,6 +19,12 @@ public class Main {
 
 
     public static void main(String[] args) {
+        collectStudentInformation();
+        int age = schoolService.determineAgeBasedOnDOB(StudentDTO);
+        GradeType gradeType = schoolService.determineGradeBasedOnAge(age)
+        School school = schoolService.determineSchoolBasedOnGrade(gradeType)
+        schoolService.admitStudent(student, school);
+        //
         Scanner sc = new Scanner(System.in);
         boolean flag = true;
 
